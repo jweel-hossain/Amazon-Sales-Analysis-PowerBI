@@ -15,5 +15,6 @@ This Power BI dashboard provides an end-to-end analysis of Amazon sales data, fo
 - **Interactive Features:** Implemented Slicers for Date, Category, and B2B segments for a dynamic user experience.
   ## Files in this Repository
 - `Amazon_Sales_Dashboard.pbix`: The complete Power BI project file.
+- https://github.com/jweel-hossain/Amazon-Sales-Analysis-PowerBI/blob/main/Amazon%20Sales%20Analysis.pbix
 - `Dashboard_Preview.png`: https://github.com/jweel-hossain/Amazon-Sales-Analysis-PowerBI/blob/main/Amzon%20sales%20dashboard.PNG
   
